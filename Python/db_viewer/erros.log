@@ -1,0 +1,3 @@
+2024-08-16 12:10:20,691:ERROR:Erro ao executar a consulta: (pymysql.err.OperationalError) (1054, "Unknown column 'column_3' in 'where clause'")
+[SQL: SELECT id, table_name, entry_id, sentido, operation, error FROM log_sync_err WHERE id > 2491  AND column_3 LIKE '%%FC->CC%%' ORDER BY id DESC;]
+(Background on this error at: https://sqlalche.me/e/14/e3q8)

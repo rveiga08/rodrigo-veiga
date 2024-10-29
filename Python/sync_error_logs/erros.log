@@ -1,0 +1,13 @@
+2024-08-12 11:44:15,244:ERROR:Erro ao executar a consulta: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on '193.122.203.251' (timed out)")
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2024-08-12 11:44:28,857:ERROR:Erro ao executar a consulta: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on '193.122.203.251' ([WinError 10065] Uma operação de soquete foi tentada em um host inacessível)")
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2024-08-13 15:22:03,362:ERROR:Erro ao executar a consulta: (pymysql.err.ProgrammingError) (1146, "Table '622.log_sync_err' doesn't exist")
+[SQL: SELECT id, table_name, entry_id, sentido, operation, error FROM log_sync_err WHERE 1=1  ORDER BY id DESC;]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+2024-08-20 10:58:50,625:ERROR:Erro ao executar a consulta: (pymysql.err.OperationalError) (1054, "Unknown column 'column_4' in 'where clause'")
+[SQL: SELECT id, table_name, entry_id, sentido, operation, error FROM log_sync_err WHERE id > 14507  AND column_4 LIKE '%%FC->CC%%' ORDER BY id DESC;]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-08-20 11:26:40,322:ERROR:Erro ao executar a consulta: (pymysql.err.OperationalError) (1054, "Unknown column 'column_3' in 'where clause'")
+[SQL: SELECT id, table_name, entry_id, sentido, operation, error FROM log_sync_err WHERE id > 1027  AND column_3 LIKE '%%CC->FC%%' ORDER BY id DESC;]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)

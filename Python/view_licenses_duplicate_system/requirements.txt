@@ -1,0 +1,5 @@
+PyQt5
+SQLAlchemy
+PyMySQL
+APScheduler
+pywin32

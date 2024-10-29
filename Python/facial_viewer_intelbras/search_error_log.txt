@@ -1,0 +1,24 @@
+2024-09-10 15:09:30,686 - ERROR - Request Error: 401 Client Error: Unauthorized for url: http://192.168.15.38/cgi-bin/AccessFace.cgi?action=list&UserIDList%5B0%5D=636
+2024-09-10 15:12:22,989 - ERROR - Request Error: 401 Client Error: Unauthorized for url: http://192.168.15.38/cgi-bin/AccessFace.cgi?action=list&UserIDList%5B0%5D=636
+2024-09-10 15:12:39,281 - ERROR - Request Error: 401 Client Error: Unauthorized for url: http://192.168.15.38/cgi-bin/AccessFace.cgi?action=list&UserIDList%5B0%5D=282015
+2024-09-10 15:12:49,478 - ERROR - Request Error: 401 Client Error: Unauthorized for url: http://192.168.15.38/cgi-bin/AccessFace.cgi?action=list&UserIDList%5B0%5D=27
+2024-09-10 15:14:46,648 - ERROR - Request Error: 401 Client Error: Unauthorized for url: http://192.168.15.38/cgi-bin/AccessFace.cgi?action=list&UserIDList%5B0%5D=27
+2024-09-10 15:15:54,965 - ERROR - Request Error: 401 Client Error: Unauthorized for url: http://192.168.15.38/cgi-bin/AccessFace.cgi?action=list&UserIDList%5B0%5D=27
+2024-09-10 15:17:03,025 - ERROR - Database Error: invalid dsn: invalid connection option "user_bd"
+
+2024-09-10 15:19:11,871 - ERROR - Request Error: 401 Client Error: Unauthorized for url: http://192.168.15.38/cgi-bin/AccessFace.cgi?action=list&UserIDList%5B0%5D=27
+2024-09-10 15:21:58,047 - ERROR - Request Error: 401 Client Error: Unauthorized for url: http://192.168.15.38/cgi-bin/AccessFace.cgi?action=list&UserIDList%5B0%5D=27
+2024-09-10 15:49:50,434 - ERROR - Request Error: 400 Client Error: Bad Request for url: http://10.20.20.102/cgi-bin/AccessFace.cgi?action=list&UserIDList%5B0%5D=1
+2024-09-10 15:49:56,160 - ERROR - Request Error: 400 Client Error: Bad Request for url: http://10.20.20.102/cgi-bin/AccessFace.cgi?action=list&UserIDList%5B0%5D=33
+2024-09-10 15:50:03,305 - ERROR - Request Error: 400 Client Error: Bad Request for url: http://10.20.20.102/cgi-bin/AccessFace.cgi?action=list&UserIDList%5B0%5D=282049
+2024-09-10 15:50:10,751 - ERROR - Request Error: 400 Client Error: Bad Request for url: http://10.20.20.102/cgi-bin/AccessFace.cgi?action=list&UserIDList%5B0%5D=636
+2024-09-10 15:51:12,532 - ERROR - Request Error: 400 Client Error: Bad Request for url: http://10.20.20.102/cgi-bin/AccessFace.cgi?action=list&UserIDList%5B0%5D=636
+2024-09-10 15:51:53,266 - ERROR - Request Error: 401 Client Error: Unauthorized for url: http://10.20.20.102/cgi-bin/AccessFace.cgi?action=list&UserIDList%5B0%5D=27
+2024-09-10 15:52:01,059 - ERROR - Request Error: 401 Client Error: Unauthorized for url: http://10.20.20.102/cgi-bin/AccessFace.cgi?action=list&UserIDList%5B0%5D=636
+2024-09-10 15:52:15,945 - ERROR - Request Error: 400 Client Error: Bad Request for url: http://10.20.20.102/cgi-bin/AccessFace.cgi?action=list&UserIDList%5B0%5D=636
+2024-09-10 15:52:59,944 - ERROR - Request Error: 400 Client Error: Bad Request for url: http://10.20.20.102/cgi-bin/AccessFace.cgi?action=list&UserIDList%5B0%5D=282049
+2024-09-10 15:53:10,181 - ERROR - Request Error: 400 Client Error: Bad Request for url: http://10.20.20.102/cgi-bin/AccessFace.cgi?action=list&UserIDList%5B0%5D=282159
+2024-09-17 09:52:17,621 - ERROR - Request Error: 400 Client Error: Bad Request for url: http://10.20.20.103/cgi-bin/AccessFace.cgi?action=list&UserIDList%5B0%5D=27
+2024-09-17 09:52:22,723 - ERROR - Request Error: 400 Client Error: Bad Request for url: http://10.20.20.103/cgi-bin/AccessFace.cgi?action=list&UserIDList%5B0%5D=33
+2024-09-17 09:57:37,961 - ERROR - Request Error: 400 Client Error: Bad Request for url: http://10.20.20.103/cgi-bin/AccessFace.cgi?action=list&UserIDList%5B0%5D=33
+2024-09-17 09:57:43,496 - ERROR - Request Error: 400 Client Error: Bad Request for url: http://10.20.20.103/cgi-bin/AccessFace.cgi?action=list&UserIDList%5B0%5D=27
