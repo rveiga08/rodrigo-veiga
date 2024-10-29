@@ -2,18 +2,18 @@ import psycopg2
 
 # Configurações de conexão com banco1
 db1_config = {
-    "dbname": "firstcontrol-antigo",
-    "user": "fcaccess",
-    "password": "FCACCESS1998!((*",
-    "host": "localhost",  # ou o host do banco1
+    "dbname": "nome-banco-dados-1", #nome do banco de dados 1
+    "user": "seu-usuario", #usuario do banco de dados 1
+    "password": "sua-senha", #senha do banco de dados 1
+    "host": "localhost",  # ou o host do banco
     "port": "5432",       # a porta padrão do PostgreSQL é 5432
 }
 
 # Configurações de conexão com banco2
 db2_config = {
-    "dbname": "firstcontrol",
-    "user": "fcaccess",
-    "password": "FCACCESS1998!((*",
+    "dbname": "nome-banco-dados-2", #nome do banco de dados 2
+    "user": "seu-usuario", #usuario do banco de dados 2
+    "password": "sua-senha", #senha do banco de dados 2
     "host": "localhost",  # ou o host do banco2
     "port": "5432",       # a porta padrão do PostgreSQL é 5432
 }
